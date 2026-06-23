@@ -17,6 +17,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 7  | [Stereo](./07_Stereo.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/07_Stereo.ipynb)         |
 | 8  | [(recap) Neural Networks](./08_NNs.ipynb)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/08_NNs.ipynb)            |
 | 9b | [CNN (LeNet in PyTorch)](./09b_CNN.ipynb)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09b_CNN.ipynb)           |
+| 10 | [CNNs & Vision Transformers](./10_CNNs_ViTs.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/10_CNNs_ViTs.ipynb) |
 | 11a | [Image representation with an MLP](./11_IMLP.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11_IMLP.ipynb)           |
 | 11b | [Tiny NeRF](./11b_TinyNeRF.ipynb)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11b_TinyNeRF.ipynb)      |
 
